@@ -18,6 +18,6 @@ This dataset was manually combined from public sources to compare audience perce
 - **Excel**
 
 ## Deliverable 
-[![visualization](visualization_preview.png)](visualization.pdf)
+[![visualization](visualization_preview.jpg)](visualization.pdf)
 
 
