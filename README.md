@@ -2,7 +2,8 @@
 This project explores how Marvel’s film reputation and profitability declined after Avengers: Endgame (2019), using data-driven storytelling through sequential visualization. The goal was to link audience perception, critic ratings, and box-office performance to reveal long-term trends in the Marvel Cinematic Universe’s reputation and financial efficiency.
 
 ## Project Structure
-- `data.csv` -
+- `data.csv` - Contains compiled data on Marvel movies, including release years, Rotten Tomatoes (Critics & Audience) scores, IMDb ratings, Metacritic scores, worldwide box office revenue, and production budgets. 
+This dataset was manually combined from public sources to compare audience perception, critic reception, and financial performance across MCU Phases 1-5.
 - `Data Sources` - Rotten Tomatoes, IMDb, Metacritic, Box Office Mojo.
 - `Deliverable` - A 3-part data visualization illustrating the relationship between critical reception, audience sentiment, and return on investment (ROI).
 
@@ -17,6 +18,6 @@ This project explores how Marvel’s film reputation and profitability declined 
 - **Excel**
 
 ## Deliverable 
-[![visualization](visualization.pdf)]
+[![visualization](visualization_preview.png)](visualization.pdf)
 
 
