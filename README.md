@@ -17,6 +17,6 @@ This project explores how Marvel’s film reputation and profitability declined 
 - **Excel**
 
 ## Deliverable 
-[![visualization](chart_essay.pdf)]
+[![visualization](visualization.pdf)]
 
 
